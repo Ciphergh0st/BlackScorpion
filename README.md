@@ -1,7 +1,4 @@
 # BlackScorpion
-BlackScorpion is a powerful OSINT and pentesting tool in development, designed for cybersecurity professionals. It includes IP/domain lookup, username tracking, Nmap scanning, and more tools. GitHub: Ciphergh0st 🦂💀
-
-
 BlackScorpion – OSINT & Pentest Multi-Tool 🦂💀
 
 Version: BETA | Still in Development
@@ -21,4 +18,4 @@ BlackScorpion is still in development. More features, performance improvements, 
 🔗 GitHub:  Ciphergh0st
 🔗 Discord: cipher_gh0st
 
-⚠️ Disclaimer: This project is strictly for educational purposes. The developer is not responsible for any misuse or illegal activities. Use it only on systems you have permission to test.
+⚠️ Disclaimer: The developer is not responsible for any misuse or illegal activities. Use it only on systems you have permission to test.
