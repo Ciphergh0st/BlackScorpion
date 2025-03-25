@@ -1,4 +1,6 @@
 # BlackScorpion
+![BlackScorpion](https://github.com/user-attachments/assets/9a54a397-1d0f-40aa-9d44-d88a93add15e)
+
 BlackScorpion – OSINT & Pentest Multi-Tool 🦂💀
 
 Version: BETA | Still in Development
