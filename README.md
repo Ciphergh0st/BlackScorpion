@@ -1,5 +1,5 @@
 # BlackScorpion
-![BlackScorpion](![Screenshot_2025-03-27_00_02_06](https://github.com/user-attachments/assets/516d1051-04a1-4620-b634-ccb9d8a9a54b))
+![BlackScorpion](![Screenshot_2025-03-27_00_02_06](https://github.com/user-attachments/assets/516d1051-04a1-4620-b634-ccb9d8a9a54b])
 
 BlackScorpion – OSINT & Pentest Multi-Tool 🦂💀
 
